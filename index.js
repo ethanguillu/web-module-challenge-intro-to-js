@@ -15,7 +15,7 @@ Task 1a - Voting Age (not auto tested)
 
 Do the following:   
    1. Create a variable called votingAge and assign it a number value
-   2. Console log true if age is 18 or higher
+   2. Console log true if age is 18 or higheraaaaaaaaaa
 
    HINT: no function required
 */
